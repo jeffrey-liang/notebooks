@@ -1,4 +1,4 @@
-# VancouverVisualized
+# Stories of Vancouver
 
 
 Finding hidden (and some not so hidden) stories about Vancouver, Canada through data.
