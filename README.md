@@ -5,4 +5,4 @@ Finding hidden (and some not so hidden) stories about Vancouver, Canada through 
 
 *Jeffrey Liang*
 
-inspired by Ben Wellington of iquantny.com
+<sub> Inspired by Ben Wellington of iquantny.com </sub>
