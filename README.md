@@ -3,6 +3,6 @@
 
 Finding hidden (and some not so hidden) stories about Vancouver, Canada through data.
 
-*Jeffrey Liang*
+*- Jeffrey Liang*
 
-<sub> Inspired by Ben Wellington of iquantny.com </sub>
+<sub> Inspired by Ben Wellington of iquantny.com. </sub>
